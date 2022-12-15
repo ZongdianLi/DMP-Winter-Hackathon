@@ -13,6 +13,8 @@ High-Precision 3D Map Can Make A Humanistic Society: A Smart Cane Application fo
 - waypoints: Contain the waypoints recoreded after a successful localization on HD map by [NDT matching](https://github.com/AbangLZU/Autoware/blob/master/ros/src/computing/perception/localization/packages/lidar_localizer/nodes/ndt_matching_monitor/README.md).
 
 ## Demo I: Vehicle Lane Invasion Awareness
+![movie]()
+
 Main code: ros/dmp_package/scripts/distance2lane.py
 
 After moving to your workspace, compling and sourcing the environtal variables, run:
@@ -33,6 +35,8 @@ rviz -d ./rviz_config/lane_awareness.rviz
 ```
 
 ## Demo II. Blind Track Deviation Awareness
+![movie]()
+
 Main code: ros/dmp_package/scripts/distance2track.py
 
 Enter the workspace, source the environmental variables and run:
