@@ -19,7 +19,15 @@ After moving to your workspace, compling and sourcing the environtal variables, 
 ```
 rosrun dmp_package distance2lane.py
 ```
+
 ## Demo II. Blind Track Deviation Awareness
+Main code: ros/dmp_package/scripts/distance2track.py
+
+Enter the workspace, source the environmental variables and run:
+```
+rosrun dmp_package distance2track.py
+```
+
 
 ## Contact
 Zongdian Li - [lizd@mobile.ee.titech.ac.jp](lizd@mobile.ee.titech.ac.jp) 
