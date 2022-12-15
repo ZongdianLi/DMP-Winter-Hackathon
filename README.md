@@ -3,8 +3,7 @@
 [Dynamic Map Platform (DMP)](https://www.dynamic-maps.co.jp/en/) is a competition event to have Engineers and Designers to develop a service in a short period using the Dynamic Map Platform’s High-Precision 3D Map data.
 
 ## ASAP Team Proposal
-視覚障害者支援のためのスマートスティックアプリケーション
-  ～高精度3D地図によってバリアフリー社会をつくろう～
+視覚障害者支援のためのスマートスティックアプリケーション ～高精度3D地図によってバリアフリー社会をつくろう～
   
 High-Precision 3D Map Can Make A Humanistic Society: A Smart Cane Application for Blind Person Assistance
 
@@ -16,6 +15,10 @@ High-Precision 3D Map Can Make A Humanistic Society: A Smart Cane Application fo
 ## Demo I: Vehicle Lane Invasion Awareness
 Main code: ros/dmp_package/scripts/distance2lane.py
 
+After moving to your workspace, compling and sourcing the environtal variables, run:
+```
+rosrun dmp_package distance2lane.py
+```
 ## Demo II. Blind Track Deviation Awareness
 
 ## Contact
