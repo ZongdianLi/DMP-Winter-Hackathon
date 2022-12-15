@@ -13,7 +13,7 @@ High-Precision 3D Map Can Make A Humanistic Society: A Smart Cane Application fo
 - waypoints: Contain the waypoints recoreded after a successful localization on HD map by [NDT matching](https://github.com/AbangLZU/Autoware/blob/master/ros/src/computing/perception/localization/packages/lidar_localizer/nodes/ndt_matching_monitor/README.md).
 
 ## Demo I: Vehicle Lane Invasion Awareness
-![movie]()
+![movie](https://github.com/ZongdianLi/DMP-Winter-Hackathon/blob/main/Demo%20I.gif)
 
 After moving to your workspace, compling and sourcing the environtal variables, run:
 ```
