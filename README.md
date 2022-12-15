@@ -11,6 +11,7 @@ High-Precision 3D Map Can Make A Humanistic Society: A Smart Cane Application fo
 - ros/dmp_package: Contain the developed ROS package for smart cane application.
 - vector_maps: Contain the vector maps in [Lanelet2](https://github.com/fzi-forschungszentrum-informatik/Lanelet2) Format edited based on DMP's HD map and Tokyo Tech's HD map.
 - waypoints: Contain the waypoints recoreded after a successful localization on HD map by [NDT matching](https://github.com/AbangLZU/Autoware/blob/master/ros/src/computing/perception/localization/packages/lidar_localizer/nodes/ndt_matching_monitor/README.md).
+- rviz_config: Contain the visulization configuration file of Rviz for different scenarios.
 
 ## Demo I: Vehicle Lane Invasion Awareness
 ![movie](https://github.com/ZongdianLi/DMP-Winter-Hackathon/blob/main/demo%201.gif)
