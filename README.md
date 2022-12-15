@@ -20,7 +20,7 @@ After moving to your workspace, compling and sourcing the environtal variables, 
 rosrun dmp_package distance2lane.py
 ```
 
-Then, launch autoware.ai runtime_manager from where you can import HD map, set TFs and enable NDT matching:
+Then, launch autoware.ai Runtime Manager from where you can import HD map, set TFs and enable NDT matching:
 ```
 cd autoware.ai
 source install/setup.bash
