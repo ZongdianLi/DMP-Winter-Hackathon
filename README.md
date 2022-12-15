@@ -40,6 +40,10 @@ Enter the workspace, source the environmental variables and run:
 rosrun dmp_package distance2track.py
 ```
 
+Launch autoware.ai; except changing HD map do same settings as the Demo I.
+
+Visualize by importing the rviz setting under rviz_config/blindtrack_awareness.rviz
+
 
 ## Contact
 Zongdian Li - [lizd@mobile.ee.titech.ac.jp](lizd@mobile.ee.titech.ac.jp) 
