@@ -20,6 +20,18 @@ After moving to your workspace, compling and sourcing the environtal variables, 
 rosrun dmp_package distance2lane.py
 ```
 
+Then, launch autoware.ai runtime_manager from where you can import HD map, set TFs and enable NDT matching:
+```
+cd autoware.ai
+source install/setup.bash
+roslaunch runtime_manager runtime_manager
+```
+
+Finally, visualize by importing the rviz setting under rviz_config/lane_awareness.rviz
+```
+rviz -d ./rviz_config/lane_awareness.rviz
+```
+
 ## Demo II. Blind Track Deviation Awareness
 Main code: ros/dmp_package/scripts/distance2track.py
 
