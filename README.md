@@ -15,8 +15,6 @@ High-Precision 3D Map Can Make A Humanistic Society: A Smart Cane Application fo
 ## Demo I: Vehicle Lane Invasion Awareness
 ![movie]()
 
-Main code: ros/dmp_package/scripts/distance2lane.py
-
 After moving to your workspace, compling and sourcing the environtal variables, run:
 ```
 rosrun dmp_package distance2lane.py
