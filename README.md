@@ -10,7 +10,7 @@ High-Precision 3D Map Can Make A Humanistic Society: A Smart Cane Application fo
 
 ## File Structure
 - ros/dmp_package: Contain the developed ROS package for smart cane application.
-- vector_maps: 
+- vector_maps: Contain the vector maps in [Lanelet2]() Format edited based on DMP's HD map and Tokyo Tech's HD map.
 - waypoints:
 
 ## 
